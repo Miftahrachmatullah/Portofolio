@@ -1,4 +1,4 @@
-@media (min-width: 1920px)
+@media (min-width: 100%)
 * {
   box-sizing: border-box;
 }
@@ -50,7 +50,7 @@ body {
 .v6_2 {
   width: 711px;
   height: 45px;
-  background: url("../images/v6_2.png");
+  background: url("v6_2.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -111,7 +111,7 @@ body {
 .v6_3 {
   width: 245px;
   height: 65px;
-  background: url("../images/v6_3.png");
+  background: url("v6_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -150,7 +150,7 @@ body {
 .v4_224 {
   width: 376px;
   height: 376px;
-  background: url("../images/v4_224.png");
+  background: url("v4_224.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -174,7 +174,7 @@ body {
   width: 376px;
   height: 376px;
   flex-shrink: 0;
-  background: url("../images/v4_223.png");
+  background: url("v4_223.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -202,7 +202,7 @@ body {
 .v6_7 {
   width: 784px;
   height: 195px;
-  background: url("../images/v6_7.png");
+  background: url("v6_7.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -239,7 +239,7 @@ body {
 .v5_225 {
   width: 604px;
   height: 425px;
-  background: url("../images/v5_225.png");
+  background: url("v5_225.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -262,7 +262,7 @@ body {
 .v6_8 {
   width: 607px;
   height: 195px;
-  background: url("../images/v6_8.png");
+  background: url("v6_8.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -286,7 +286,7 @@ body {
 }
 .v2_178 {
   width: 607px;
-  color: url("../images/v2_178.png");
+  color: url("v2_178.png");
   position: absolute;
   top: 105px;
   left: 0px;
@@ -297,7 +297,7 @@ body {
 .v6_10 {
   width: 430px;
   height: 810px;
-  background: url("../images/v6_10.png");
+  background: url("v6_10.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -310,7 +310,7 @@ body {
 .v6_11 {
   width: 430px;
   height: 810px;
-  background: url("../images/v6_11.png");
+  background: url("v6_11.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -323,7 +323,7 @@ body {
 .v6_12 {
   width: 365px;
   height: 738px;
-  background: url("../images/v6_12.png");
+  background: url("v6_12.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -336,7 +336,7 @@ body {
 .v6_18 {
   width: 327px;
   height: 705px;
-  background: url("../images/v6_18.png");
+  background: url("v6_18.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -359,7 +359,7 @@ body {
 .v5_226 {
   width: 696px;
   height: 425px;
-  background: url("../images/v5_226.png");
+  background: url("v5_226.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -372,7 +372,7 @@ body {
 .v6_9 {
   width: 259px;
   height: 242px;
-  background: url("../images/v6_9.png");
+  background: url("v6_9.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -397,7 +397,7 @@ body {
 .v2_202 {
   width: 258px;
   height: 30px;
-  background: url("../images/v2_202.png");
+  background: url("v2_202.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -422,7 +422,7 @@ body {
 .v2_200 {
   width: 30px;
   height: 30px;
-  background: url("../images/v2_200.png");
+  background: url("v2_200.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -435,7 +435,7 @@ body {
 .v2_197 {
   width: 30px;
   height: 30px;
-  background: url("../images/v2_197.png");
+  background: url("v2_197.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -445,7 +445,7 @@ body {
 .v2_198 {
   width: 12px;
   height: 12px;
-  background: url("../images/v2_198.png");
+  background: url("v2_198.png");
   opacity: 1;
   position: absolute;
   top: 8px;
@@ -454,7 +454,7 @@ body {
 }
 .v2_199 {
   width: 0px;
-  background: url("../images/v2_199.png");
+  background: url("v2_199.png");
   opacity: 1;
   position: absolute;
   top: 6px;
@@ -464,7 +464,7 @@ body {
 .v2_212 {
   width: 258px;
   height: 36px;
-  background: url("../images/v2_212.png");
+  background: url("v2_212.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -489,7 +489,7 @@ body {
 .v2_208 {
   width: 31px;
   height: 30px;
-  background: url("../images/v2_208.png");
+  background: url("v2_208.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -502,7 +502,7 @@ body {
 .v2_205 {
   width: 18px;
   height: 20px;
-  background: url("../images/v2_205.png");
+  background: url("v2_205.png");
   opacity: 1;
   position: absolute;
   top: 9px;
@@ -512,7 +512,7 @@ body {
 .v2_206 {
   width: 6px;
   height: 18px;
-  background: url("../images/v2_206.png");
+  background: url("v2_206.png");
   opacity: 1;
   position: absolute;
   top: 11px;
@@ -522,7 +522,7 @@ body {
 .v2_207 {
   width: 6px;
   height: 6px;
-  background: url("../images/v2_207.png");
+  background: url("v2_207.png");
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -532,7 +532,7 @@ body {
 .v2_213 {
   width: 258px;
   height: 30px;
-  background: url("../images/v2_213.png");
+  background: url("v2_213.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -557,7 +557,7 @@ body {
 .v2_215 {
   width: 24px;
   height: 26px;
-  background: url("../images/v2_215.png");
+  background: url("v2_215.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -571,7 +571,7 @@ body {
   width: 24.375px;
   height: 26.283px;
   flex-shrink: 0;
-  background: url("../images/logogith.png");
+  background: url("logogith.png");
   /* opacity: 1;
   position: absolute;
   top: 0px;
